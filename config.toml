@@ -76,6 +76,10 @@ languageName = "English"
 languageCode = "en"
 weight = 1
 
+[Languages.eo]
+languageName = "Esperanto"
+languageCode = "eo"
+
 [Languages.el]
 languageName = "ελληνικά"
 languageCode = "el"
