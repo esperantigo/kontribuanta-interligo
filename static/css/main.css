@@ -186,9 +186,10 @@ ol {
   margin: 0 0 0 1.5rem;
 }
 
-[dir="rtl"] ul,
-[dir="rtl"] ol {
+ul:dir(rtl),
+ol:dir(rtl) {
   margin: 1.5rem 1.5rem 1.5rem 0;
+  list-style-position: inherit;
 }
 
 li {
@@ -769,10 +770,18 @@ area {
   font-size: 1rem;
 }
 
+.version:dir(rtl) {
+  text-align: right;
+}
+
 .preview p, .version p {
   text-align: left;
   width: 100%;
   margin: 1rem 0;
+}
+
+.preview p:dir(rtl), .version p:dir(rtl) {
+  text-align: right;
 }
 
 .preview h1, .versiom h1 {
@@ -798,6 +807,10 @@ area {
 
 .preview ul, .version ul {
   margin: 0 0 0 0;
+}
+
+.preview ul:dir(rtl), .version ul:dir(rtl) {
+  margin: 1.5rem 1.0rem 1.5rem 0;
 }
 
 .preview li, .version li {
@@ -837,6 +850,10 @@ area {
     list-style: none;
     padding: 0;
     text-align: left;
+  }
+
+  nav ul:dir(rtl) {
+    text-align: right;
   }
 
   nav ul li {
