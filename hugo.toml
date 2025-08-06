@@ -49,7 +49,7 @@ languageCode = "am"
 [Languages.ar]
 languageName = "العربية"
 languageCode = "ar"
-writingDirection = "rtl"
+languageDirection = "rtl"
 
 [Languages.bn]
 languageName = "Bengali"
@@ -119,7 +119,7 @@ languageCode = "it"
 [Languages.iw]
 languageName = "עברית"
 languageCode = "iw"
-writingDirection = "rtl"
+languageDirection = "rtl"
 
 [Languages.ja]
 languageName = "日本語"
@@ -141,8 +141,8 @@ languageCode = "ko"
 languageName = "Македонски"
 languageCode = "mk"
 
-[Languages.ms] 
-languageName = "Malaysia" 
+[Languages.ms]
+languageName = "Malaysia"
 languageCode = "ms"
 
 [Languages.nl]
@@ -196,7 +196,7 @@ languageCode = "zh-cn"
 [Languages.fa-IR]
 languageName = "فارسی"
 languageCode = "fa-IR"
-writingDirection = "rtl"
+languageDirection = "rtl"
 
 [Languages.sw]
 languageName = "Swahili"
