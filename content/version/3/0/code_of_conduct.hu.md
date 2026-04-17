@@ -50,13 +50,13 @@ Megállapodunk abban, hogy közösségünkben korlátozzuk az alábbi magatartá
 4. **Felelőtlen kommunikáció.** Olyan tartalom nem kellően felelős módon történő közzététele, amely bármely más korlátozott viselkedést tartalmaz, arra hivatkozik, vagy azt leírja.
 
 
-## Reporting an Issue
+## Esemény bejelentése
 
-Tensions can occur between community members even when they are trying their best to collaborate. Not every conflict represents a code of conduct violation, and this Code of Conduct reinforces encouraged behaviors and norms that can help avoid conflicts and minimize harm.
+A közösség tagjai között feszültségek alakulhatnak ki akkor is, ha minden tőlük telhetőt megtesznek az együttműködés érdekében. Nem minden konfliktus jelenti a magatartási kódex megsértését, és ez a magatartási kódex azokat a javasolt magatartásformákat és normákat erősíti meg, amelyek segíthetnek a konfliktusok elkerülésében és a károk minimalizálásában.
 
-When an incident does occur, it is important to report it promptly. To report a possible violation, **[NOTE: describe your means of reporting here.]**
+Ha mégis bekövetkezik egy incidens, fontos, hogy azt haladéktalanul jelentsék. Egy esetleges szabálysértés bejelentéséhez **[MEGJEGYZÉS: itt írja le a bejelentés módját.]**
 
-Community Moderators take reports of violations seriously and will make every effort to respond in a timely manner. They will investigate all reports of code of conduct violations, reviewing messages, logs, and recordings, or interviewing witnesses and other participants. Community Moderators will keep investigation and enforcement actions as transparent as possible while prioritizing safety and confidentiality. In order to honor these values, enforcement actions are carried out in private with the involved parties, but communicating to the whole community may be part of a mutually agreed upon resolution.
+A közösségi moderátorok komolyan veszik a szabálysértésekről szóló bejelentéseket, és mindent megtesznek azért, hogy időben reagáljanak rájuk. A magatartási kódex megsértésére vonatkozó valamennyi bejelentést kivizsgálják: áttekintik az üzeneteket, naplókat és felvételeket, illetve szükség esetén tanúkat és más résztvevőket hallgatnak meg. A moderátorok a szabálysértésekkel kapcsolatos vizsgálatokat és intézkedéseket a lehető legátláthatóbbá teszik, miközben a biztonság és a titoktartás elsőbbséget élvez. A magatartási kódex betartatására irányuló intézkedések  zárt körben, az érintett felekkel történnek, de a közösség egészének tájékoztatása is része lehet egy kölcsönösen elfogadott megoldásnak.
 
 
 ## Addressing and Repairing Harm
