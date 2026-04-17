@@ -59,30 +59,30 @@ Ha mégis bekövetkezik egy incidens, fontos, hogy azt haladéktalanul jelentsé
 A közösségi moderátorok komolyan veszik a szabálysértésekről szóló bejelentéseket, és mindent megtesznek azért, hogy időben reagáljanak rájuk. A magatartási kódex megsértésére vonatkozó valamennyi bejelentést kivizsgálják: áttekintik az üzeneteket, naplókat és felvételeket, illetve szükség esetén tanúkat és más résztvevőket hallgatnak meg. A moderátorok a szabálysértésekkel kapcsolatos vizsgálatokat és intézkedéseket a lehető legátláthatóbbá teszik, miközben a biztonság és a titoktartás elsőbbséget élvez. A magatartási kódex betartatására irányuló intézkedések  zárt körben, az érintett felekkel történnek, de a közösség egészének tájékoztatása is része lehet egy kölcsönösen elfogadott megoldásnak.
 
 
-## Addressing and Repairing Harm
+## A sérelem kezelése és orvoslása
 
-**[NOTE: The remedies and repairs outlined below are suggestions based on best practices in code of conduct enforcement. If your community has its own established enforcement process, be sure to edit this section to describe your own policies.]**
+**[MEGJEGYZÉS: Az alábbiakban ismertetett jogorvoslati és helyreállítási intézkedések a magatartási kódex érvényesítésének bevált gyakorlatai alapján megfogalmazott javaslatok. Ha a közösségednek saját, kialakult érvényesítési eljárása van, mindenképpen módosítsd ezt a részt, hogy leírhasd a saját irányelveidet.]**
 
-If an investigation by the Community Moderators finds that this Code of Conduct has been violated, the following enforcement ladder may be used to determine how best to repair harm, based on the incident's impact on the individuals involved and the community as a whole. Depending on the severity of a violation, lower rungs on the ladder may be skipped.
+Ha a közösségi moderátorok vizsgálata megállapítja, hogy megsértették a jelen magatartási kódexet, az alábbi végrehajtási lépcsőfokokat lehet alkalmazni annak meghatározására, hogy az érintett személyekre és a közösség egészére gyakorolt hatás alapján hogyan lehet a kárt a legjobban orvosolni. A szabálysértés súlyosságától függően a lépcsőfokok alsóbb fokai kihagyhatók.
 
-1) Warning
-   1) Event: A violation involving a single incident or series of incidents.
-   2) Consequence: A private, written warning from the Community Moderators.
-   3) Repair: Examples of repair include a private written apology, acknowledgement of responsibility, and seeking clarification on expectations.
-2) Temporarily Limited Activities
-   1) Event: A repeated incidence of a violation that previously resulted in a warning, or the first incidence of a more serious violation.
-   2) Consequence: A private, written warning with a time-limited cooldown period designed to underscore the seriousness of the situation and give the community members involved time to process the incident. The cooldown period may be limited to particular communication channels or interactions with particular community members.
-   3) Repair: Examples of repair may include making an apology, using the cooldown period to reflect on actions and impact, and being thoughtful about re-entering community spaces after the period is over.
-3) Temporary Suspension
-   1) Event: A pattern of repeated violation which the Community Moderators have tried to address with warnings, or a single serious violation.
-   2) Consequence: A private written warning with conditions for return from suspension. In general, temporary suspensions give the person being suspended time to reflect upon their behavior and possible corrective actions.
-   3) Repair: Examples of repair include respecting the spirit of the suspension, meeting the specified conditions for return, and being thoughtful about how to reintegrate with the community when the suspension is lifted.
-4) Permanent Ban
-   1) Event: A pattern of repeated code of conduct violations that other steps on the ladder have failed to resolve, or a violation so serious that the Community Moderators determine there is no way to keep the community safe with this person as a member.
-   2) Consequence: Access to all community spaces, tools, and communication channels is removed. In general, permanent bans should be rarely used, should have strong reasoning behind them, and should only be resorted to if working through other remedies has failed to change the behavior.
-   3) Repair: There is no possible repair in cases of this severity.
+1) Figyelmeztetés
+   1) Esemény: Egyetlen incidenssel vagy incidenssorozattal járó szabályszegés.
+   2) Következmény: A közösségi moderátoroktól érkező, zárt körű, írásbeli figyelmeztetés.
+   3) Helyreállítás: A helyreállítás példái közé tartozik a zárt körű, írásbeli bocsánatkérés, a felelősség elismerése és a várakozások tisztázása.
+2) Ideiglenesen korlátozott tevékenységek
+   1) Esemény: Olyan szabálysértés ismételt előfordulása, amely korábban figyelmeztetést eredményezett, vagy egy súlyosabb szabálysértés első előfordulása.
+   2) Következmény: Zárt, írásbeli figyelmeztetés, időkorlátozott hűtheti időszakkal, amelynek célja a helyzet súlyosságának hangsúlyozása és az érintett közösségi tagoknak idő biztosítása az eset feldolgozására. A hűtheti időszak korlátozódhat bizonyos kommunikációs csatornákra vagy bizonyos közösségi tagokkal való interakciókra.
+   3) Javítás: A javítás példái lehetnek a bocsánatkérés, a hűtheti időszak kihasználása a cselekedetek és azok hatásának átgondolására, valamint a hűtheti időszak lejárta után a közösségi terekbe való visszatérés átgondolása.
+3) Ideiglenes felfüggesztés
+   1) Esemény: Ismétlődő szabályszegés, amelyet a közösségi moderátorok figyelmeztetésekkel próbáltak kezelni, vagy egyetlen súlyos szabályszegés.
+   2) Következmény: Zárt körű írásbeli figyelmeztetés a felfüggesztésből való visszatérés feltételeivel. Általában az ideiglenes felfüggesztések időt adnak a felfüggesztett személynek, hogy átgondolja viselkedését és a lehetséges korrekciós intézkedéseket.
+   3) Helyreállítás: A helyreállítás példái közé tartozik a felfüggesztés szellemének tiszteletben tartása, a visszatérésre vonatkozó feltételek teljesítése, valamint a felfüggesztés feloldása után a közösségbe való visszailleszkedés átgondolása.
+4) Végleges kizárás
+   1) Esemény: Ismétlődő magatartási kódex-megsértések, amelyeket a lépcső többi fokán már nem sikerült megoldani, vagy olyan súlyos szabályszegés, amelyről a közösségi moderátorok úgy ítélik meg, hogy ennek a személynek a tagsága mellett a közösség biztonsága nem garantálható.
+   2) Következmény: Az összes közösségi tér, eszköz és kommunikációs csatorna hozzáférésének megvonása. Általánosságban elmondható, hogy az állandó kizárást ritkán szabad alkalmazni, annak mögött erős indokoknak kell állniuk, és csak akkor szabad igénybe venni, ha más intézkedésekkel nem sikerült megváltoztatni a viselkedést.
+   3) Javítás: Ilyen súlyos esetekben nincs lehetőség a helyzet javítására.
 
-This enforcement ladder is intended as a guideline. It does not limit the ability of Community Managers to use their discretion and judgment, in keeping with the best interests of our community.
+Ez a szankciós lépcsőfok irányelvként szolgál. Nem korlátozza a közösségi menedzserek azon képességét, hogy saját belátásuk és ítélőképességük szerint járjanak el, a közösségünk legjobb érdekeit szem előtt tartva.
 
 
 ## Hatály
